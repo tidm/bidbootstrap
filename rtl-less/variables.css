@@ -1,0 +1,15 @@
+﻿@font-face {
+    font-family: 'Droid Arabic Naskh';
+    src: url(../rtl-fonts/DroidNaskh-Regular.eot);
+    src: url(../rtl-fonts/DroidNaskh-Regular.eot?#iefix) format('embedded-opentype'), url(../rtl-fonts/DroidNaskh-Regular.woff) format('woff'), url(../rtl-fonts/DroidNaskh-Regular.ttf) format('truetype'), url(../rtl-fonts/DroidNaskh-Regular.svg#Droid%20Arabic%20Kufi) format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Droid Arabic Naskh';
+    src: url(../rtl-fonts/DroidNaskh-Bold.eot);
+    src: url(../rtl-fonts/DroidNaskh-Bold.eot?#iefix) format('embedded-opentype'), url(../rtl-fonts/DroidNaskh-Bold.woff) format('woff'), url(../rtl-fonts/DroidNaskh-Bold.ttf) format('truetype'), url(../rtl-fonts/DroidNaskh-Bold.svg#Droid%20Arabic%20Kufi) format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
